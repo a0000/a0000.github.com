@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: 为自己加油!
+tagline: 一直在路上
 ---
 {% include JB/setup %}
 
