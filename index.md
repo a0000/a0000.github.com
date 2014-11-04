@@ -3,6 +3,7 @@ layout: page
 title: 为自己加油!
 tagline: 一直在路上
 ---
+{% include JB/setup %}
 
 Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
 
