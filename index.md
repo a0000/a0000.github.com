@@ -42,5 +42,5 @@ Here's a sample "posts list".
 
 This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
 We need to clean up the themes, make theme usage guides with theme-specific markup examples.
-
+- 任何不会被修改的变量都可以被当成参数传入新的函数，如果只有一个变量会被修改，可以把它当作返回值，返回给它自己。
 
