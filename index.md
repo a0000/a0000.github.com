@@ -2,7 +2,6 @@
 layout: page
 title: 为自己加油!
 tagline: 一直在路上
-date:2014-08-10
 ---
 {% include JB/setup %}
 
