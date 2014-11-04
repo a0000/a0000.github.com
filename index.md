@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 为自己加油!
+title: Category Reading
 tagline: 一直在路上
 ---
 {% include JB/setup %}
